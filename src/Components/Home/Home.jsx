@@ -1,7 +1,7 @@
 import React from "react";
 import { useEffect } from "react";
 import "./home.css";
-import video from "../../Assets/pexels_videos_2257010 (2160p).mp4"
+import video from "../../Assets/pexels_videos_2141798 (2160p) (1).mp4"
 import { GrLocation } from "react-icons/gr";
 import { HiFilter } from "react-icons/hi";
 import { FaTripadvisor } from "react-icons/fa";
